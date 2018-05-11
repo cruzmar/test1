@@ -1,3 +1,7 @@
 this is the initial line
 this is an update from user2
+<<<<<<< HEAD
 Another update for user2
+=======
+update from user1 while user2 also updates
+>>>>>>> bad160e6ff292167952710460ce66c3aa14f3f12
