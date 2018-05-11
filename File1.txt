@@ -1,5 +1,6 @@
 this is the initial line
 this is an update from user2
+<<<<<<< HEAD
 update from user1 while user2 also updates
 user1 continue update
 A:User1 Line1
@@ -12,3 +13,10 @@ C:User1 Line1
 C:User1 Line2
 C:User1 Line3
 
+=======
+<<<<<<< HEAD
+Another update for user2
+=======
+update from user1 while user2 also updates
+>>>>>>> bad160e6ff292167952710460ce66c3aa14f3f12
+>>>>>>> a27ee08973c4a50457b86c05fdc97bbd1b3d56bc
