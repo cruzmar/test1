@@ -1,2 +1,3 @@
 this is the initial line
 this is an update from user2
+update from user1 while user2 also updates
