@@ -1,2 +1,3 @@
 inital content of file2
 from user1
+next change from user1
