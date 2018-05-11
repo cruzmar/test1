@@ -5,3 +5,6 @@ user1 continue update
 A:User1 Line1
 A:User1 Line2
 A:User1 Line3
+B:User1 Line1
+B:User1 Line2
+B:User1 Line3
