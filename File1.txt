@@ -1,4 +1,7 @@
 this is the initial line
 this is an update from user2
 update from user1 while user2 also updates
-user1 continue updateA:User1 Line2
+user1 continue update
+A:User1 Line1
+A:User1 Line2
+A:User1 Line3
